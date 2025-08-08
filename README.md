@@ -1,5 +1,6 @@
 # 学术大模型接口服务
-https://llmapi.fit，处理论文的理想的接口
+https://llmapi.fit
+处理论文的理想的接口
 
 # 接口
 - 降重接口
